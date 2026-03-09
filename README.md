@@ -93,5 +93,7 @@ Programming Language-Python, Frontend Framework , Streamlit , NLP & Machine Lear
 Libraries-streamlit, scikit-learn , requests , language-tool-python , pandas , nltk
 
 SYSTEM ARCHITECTURE-
+
+
 <img width="437" height="538" alt="image" src="https://github.com/user-attachments/assets/4b93fdce-2b7d-480d-9280-af635c7cea7d" />
 
