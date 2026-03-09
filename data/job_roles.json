@@ -1,0 +1,63 @@
+{
+  "Software Development Engineer": {
+    "skills": ["python","java","c++","data structures","algorithms","sql","git","oop","rest api","debugging"]
+  },
+  "Frontend Developer": {
+    "skills": ["html","css","javascript","react","redux","typescript","responsive design","api integration","git","web performance"]
+  },
+  "Backend Developer": {
+    "skills": ["python","java","node.js","sql","mongodb","rest api","authentication","microservices","docker","git"]
+  },
+  "Full Stack Developer": {
+    "skills": ["html","css","javascript","react","node.js","sql","mongodb","rest api","git","docker"]
+  },
+  "Machine Learning Engineer": {
+    "skills": ["python","numpy","pandas","scikit-learn","tensorflow","pytorch","statistics","feature engineering","model deployment","data preprocessing"]
+  },
+  "Data Scientist": {
+    "skills": ["python","r","statistics","machine learning","data visualization","sql","pandas","numpy","hypothesis testing","data cleaning"]
+  },
+  "Data Analyst": {
+    "skills": ["excel","sql","python","power bi","tableau","data cleaning","statistics","data visualization","reporting","dashboards"]
+  },
+  "DevOps Engineer": {
+    "skills": ["linux","docker","kubernetes","aws","azure","ci/cd","terraform","monitoring","git","shell scripting"]
+  },
+  "Cloud Engineer": {
+    "skills": ["aws","azure","gcp","virtual machines","networking","docker","kubernetes","cloud security","terraform","load balancing"]
+  },
+  "Cyber Security Analyst": {
+    "skills": ["network security","penetration testing","siem","firewalls","encryption","ethical hacking","incident response","vulnerability assessment","linux","python"]
+  },
+  "Android Developer": {
+    "skills": ["java","kotlin","android sdk","rest api","firebase","ui design","debugging","git","mvvm","testing"]
+  },
+  "iOS Developer": {
+    "skills": ["swift","objective-c","xcode","ui design","rest api","core data","testing","git","mvvm","debugging"]
+  },
+  "Blockchain Developer": {
+    "skills": ["solidity","ethereum","smart contracts","web3","cryptography","javascript","node.js","blockchain architecture","testing","security"]
+  },
+  "AI Engineer": {
+    "skills": ["python","machine learning","deep learning","nlp","tensorflow","pytorch","model optimization","data preprocessing","deployment","statistics"]
+  },
+  "NLP Engineer": {
+    "skills": ["python","nlp","transformers","spacy","nltk","bert","text preprocessing","deep learning","pytorch","tensorflow"]
+  },
+  "UI/UX Designer": {
+    "skills": ["figma","adobe xd","wireframing","prototyping","user research","usability testing","interaction design","visual design","design systems","responsive design"]
+  },
+  "QA Engineer": {
+    "skills": ["manual testing","selenium","automation testing","test cases","bug tracking","api testing","performance testing","git","ci/cd","debugging"]
+  },
+  "Product Manager": {
+    "skills": ["product strategy","roadmap planning","market research","agile","scrum","stakeholder management","data analysis","user stories","communication","prioritization"]
+  },
+  "Business Analyst": {
+    "skills": ["requirement gathering","sql","excel","data analysis","documentation","process modeling","communication","stakeholder management","reporting","agile"]
+  },
+  "System Administrator": {
+    "skills": ["linux","windows server","networking","firewalls","virtualization","backup","shell scripting","monitoring","security","troubleshooting"]
+  }
+}
+
