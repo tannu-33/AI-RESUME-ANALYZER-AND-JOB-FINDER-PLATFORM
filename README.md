@@ -1,51 +1,54 @@
-#AI Resume Intelligence & Career Matching Platform
+AI Resume Intelligence & Career Matching Platform
 
 An intelligent web application that analyzes resumes using Natural Language Processing (NLP) techniques and provides data-driven feedback along with real-time job and internship opportunities in India. The system evaluates resumes using multiple scoring metrics such as semantic similarity, ATS compatibility, skill coverage, and content quality, and helps users improve their resumes while simultaneously discovering relevant job opportunities.
 
 Key Features-
-#Resume Intelligence Engine
-Upload resumes in PDF or DOCX format
+*Resume Intelligence Engine
 
-Extracts and analyzes resume text automatically
+-Upload resumes in PDF or DOCX format
 
-Computes a multi-metric performance score based on:
+-Extracts and analyzes resume text automatically
 
-Semantic similarity with target role
+-Computes a multi-metric performance score based on:
 
-ATS compatibility
+-Semantic similarity with target role
 
-Skill coverage analysis
+-ATS compatibility
 
-Resume structure and quality
+-Skill coverage analysis
 
-Skill Gap Analysis
+-Resume structure and quality
 
-Identifies matched and missing skills for the selected role
+-Skill Gap Analysis
 
-Recommends learning resources to close skill gaps
+-Identifies matched and missing skills for the selected role
 
-Resume Writing Optimization
+-Recommends learning resources to close skill gaps
 
-Detects weak bullet points
+-Resume Writing Optimization
 
-Suggests improved, action-oriented bullet points
+-Detects weak bullet points
 
-Performs grammar and writing quality checks
+-Suggests improved, action-oriented bullet points
 
-#Live Job & Internship Finder
+-Performs grammar and writing quality checks
 
-Fetches real-time job and internship opportunities in India
+*Live Job & Internship Finder
 
-Role-based job search
+-Fetches real-time job and internship opportunities in India
 
-Toggle between Full-Time Jobs and Internships
+-Role-based job search
 
-Direct Apply links to opportunities
+-Toggle between Full-Time Jobs and Internships
 
-Interactive Dashboard
+-Direct Apply links to opportunities
 
-Tech Stack-
+-Interactive Dashboard
+
+*Tech Stack-
 Languages & Frameworks-Python , Streamlit , Machine Learning & NLP , TF-IDF Vectorization , Cosine Similarity , Text Processing , Rule-based ATS evaluation , APIs RapidAPI , JSearch API (Live job data)
-Libraries-scikit-learn, requests , language-tool-python , pandas , nltk / text utilitie
-SYSTEM ARCHITECTURE-
+
+*Libraries-scikit-learn, requests , language-tool-python , pandas , nltk / text utilitie
+
+*SYSTEM ARCHITECTURE-
 <img width="437" height="538" alt="image" src="https://github.com/user-attachments/assets/96dfa146-b26d-4e50-8c64-9296f66ae21d" />
