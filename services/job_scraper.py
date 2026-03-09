@@ -1,6 +1,6 @@
 import requests
 import os
-API_KEY = os.getenv("RAPIDAPI_KEY")
+API_KEY = os.getenv("RAPID_API_KEY")
 
 def fetch_jobs(role, job_type):
 
