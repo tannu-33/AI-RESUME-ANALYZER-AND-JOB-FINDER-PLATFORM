@@ -45,24 +45,4 @@ language-tool-python
 pandas
 nltk / text utilitie
 SYSTEM ARCHITECTURE-
-User Resume Upload
-        │
-        ▼
-Resume Text Extraction
-        │
-        ▼
-NLP Processing Pipeline
-  ├── Semantic Similarity
-  ├── ATS Rule Analysis
-  ├── Skill Coverage Detection
-  └── Resume Quality Evaluation
-        │
-        ▼
-Score Aggregation Engine
-        │
-        ▼
-Interactive Dashboard (Streamlit UI)
-        │
-        ├── Resume Insights
-        ├── Skill Gap Recommendations
-        └── Live Job / Internship Finder
+<img width="437" height="538" alt="image" src="https://github.com/user-attachments/assets/96dfa146-b26d-4e50-8c64-9296f66ae21d" />
